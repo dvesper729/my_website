@@ -8,14 +8,18 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 h1 {
-	border: 1px darkslategrey;
+	border-style: solid;
+  	border-width: 3px;
+  	border-color: darkslategrey;
 	margin: auto;
 	padding: 10px 10px 25px 25px;
 	color:darkslateblue;
 	text-align: center;
 }
 h2 {
-	border: 10px darkslategray;
+	border-style: solid;
+  	border-width: 3px;
+  	border-color: darkslategrey;
 	margin: auto;
 	padding: 10px 10px 25px 25px;
 	color:darkblue;
