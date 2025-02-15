@@ -15,7 +15,7 @@ h1 {
 	text-align: center;
 }
 h2 {
-	border: 1px darkslategray;
+	border: 10px darkslategray;
 	margin: auto;
 	padding: 10px 10px 25px 25px;
 	color:darkblue;
@@ -40,8 +40,8 @@ a:hover {
 	color:hotpink;
 }
 img {
-	border: 2px darkslategray;
-  border-radius: 3px;
+	border: 5px darkslategray;
+  border-radius: 8px;
 }
 footer {
 	background-color: black;
