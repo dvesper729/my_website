@@ -10,7 +10,7 @@
 h1 {
 	border: 1px darkslategray;
 	margin: auto;
-	padding: 325px 50px 75px 50px;
+	padding: 25px 50px 25px 50px;
 	color:darkslateblue;
 	text-align: center;
 }
@@ -24,7 +24,7 @@ h2 {
 p {
 	text-align: center;
 	line-height: 0.9;
-	font-size: 12px;
+	font-size: 15px;
 }
 ol {
 	color:darkred;
@@ -46,8 +46,8 @@ img {
 footer {
 	background-color: black;
 	text-align: center;
-	font-size: 9px;
-	padding: 325px 50px 75px 50px;
+	font-size: 12px;
+	padding: 25px 50px 25px 50px;
 	color: whitesmoke;
 }
 </style>
